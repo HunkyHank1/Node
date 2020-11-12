@@ -1,3 +1,9 @@
+/*
+Henry Johnson
+The goal of this class is to create nodes that relate to eachother and contain any data of any type
+created: 9/15/20
+edited: 10/12/20
+ */
 public class StackNode<T> {
     private T data;
     private StackNode parent;
